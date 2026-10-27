@@ -25,12 +25,12 @@
 - Aplicable a entornos de investigación e industria.
   
 ## ⚙️ **Herramientas incluidas actualmente**
- **[Sofware: TEM Segmenter (Próximamente)](https://github.com/ezegrondona/TEM_Segmenter)**
+ **[Sofware: TEM Segmenter (Próximamente)](https://github.com/ezegrondona/TEM_Segmenter#tem-segmenter)**
 - *Segmentación de imagines de Microscopía Electrónica para análisis de estructuras y organelas celulares.*
 ---
  **[Plugin: Analizar DAB](https://github.com/ezegrondona/Analizar-DAB#analizar-dab)**
 - *Detección y cuantificación automatizada de tinción DAB mediante clasificación basada en color.*
 ---
-  **[Plugin: DBR-Fluo-Análisis](https://github.com/ezegrondona/DVR-Fluo-Analisis)**
+  **[Plugin: DBR-Fluo-Análisis](https://github.com/ezegrondona/DVR-Fluo-Analisis#dvr-fluo-an%C3%A1lisis)**
 - *Cuantificación multicanal (DAPI, AF488, AF594), incluyendo conteo celular y análisis de intensidad.*
 </div>
