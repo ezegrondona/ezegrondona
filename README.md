@@ -2,7 +2,7 @@
 
 # Dr. Ezequiel Grondona
 
-### Automatización del análisis de imágenes de microscopía para reducir tiempos de procesamiento y mejorar la reproducibilidad de resultados
+### Procesamiento de imágenes, automatización y optimización de workflows en microscopía
 
 **Centro de Microscopía Electrónica — Universidad Nacional de Córdoba**
 **INICSA (CONICET–UNC) — Córdoba, Argentina**
