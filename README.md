@@ -1,10 +1,23 @@
-# <div align="center"> Automatización del análisis de imágenes de microscopía para reducir tiempos de procesamiento y mejorar la reproducibilidad de resultados </div>
+<div align="center">
+
+# Dr. Ezequiel Grondona
+
+### Automatización del análisis de imágenes de microscopía para reducir tiempos de procesamiento y mejorar la reproducibilidad de resultados
+
+**Centro de Microscopía Electrónica — Universidad Nacional de Córdoba**
+**INICSA (CONICET–UNC) — Córdoba, Argentina**
+
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0004--4155--2001-A6CE39.svg)](https://orcid.org/0009-0004-4155-2001)
+
+</div>
+
 ---
+
 <div align="justify">
-  
+
 ## 🔬 **Herramientas de Análisis de Imágenes en Microscopía**
 
-- Este repositorio contiene plugins desarrollados para FIJI/ImageJ y softwares de procesamiento, orientados a la automatización del análisis cuantitativo de imágenes de microscopía.
+- Acá publico los plugins desarrollados para FIJI/ImageJ y los softwares de procesamiento, orientados a la automatización del análisis cuantitativo de imágenes de microscopía.
 
 ## 💡 **Características principales**
 - **Permiten reducir significativamente el tiempo de análisis manual y minimizar la variabilidad entre operadores.**
@@ -28,9 +41,18 @@
  **Software: TEM Segmenter (Próximamente)**
 - *Segmentación de imágenes de Microscopía Electrónica para análisis de estructuras y organelas celulares.*
 ---
- **[Plugin: Analizar DAB](https://github.com/ezegrondona/Analizar-DAB#analizar-dab)**
+ **[Plugin: Analizar DAB](https://github.com/ezegrondona/Analizar-DAB#analizar-dab)** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23604119.svg)](https://doi.org/10.5281/zenodo.23604119)
 - *Detección y cuantificación automatizada de tinción DAB mediante clasificación basada en color.*
 ---
-  **[Plugin: DVR-Fluo-Análisis](https://github.com/ezegrondona/DVR-Fluo-Analisis#dvr-fluo-an%C3%A1lisis)**
+  **[Plugin: DVR Fluo Análisis](https://github.com/ezegrondona/DVR-Fluo-Analisis#dvr-fluo-an%C3%A1lisis)** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23697402.svg)](https://doi.org/10.5281/zenodo.23697402)
 - *Cuantificación multicanal (DAPI, AF488, AF594), incluyendo conteo celular y análisis de intensidad.*
+
+---
+
+## 📑 **Cómo citar**
+
+Cada herramienta publicada tiene su propio DOI y su archivo `CITATION.cff`: el botón **«Cite this repository»**, arriba a la derecha en la portada de cada repositorio, da la cita ya formateada en APA y en BibTeX.
+
+Los DOI de arriba son *concept DOI*: apuntan siempre a la versión más reciente, así que una cita hecha hoy sigue sirviendo cuando se publique una versión nueva.
+
 </div>
