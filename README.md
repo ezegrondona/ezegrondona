@@ -1,11 +1,6 @@
 <div align="center">
 
-# Dr. Ezequiel Grondona
-
-### Procesamiento de imágenes, automatización y optimización de workflows en microscopía
-
-**Centro de Microscopía Electrónica — Universidad Nacional de Córdoba**
-**INICSA (CONICET–UNC) — Córdoba, Argentina**
+# Procesamiento de imágenes, automatización y optimización de workflows en microscopía
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0004--4155--2001-A6CE39.svg)](https://orcid.org/0009-0004-4155-2001)
 
