@@ -10,9 +10,9 @@
 
 <div align="justify">
 
-## 🔬 **Herramientas de Análisis de Imágenes en Microscopía**
+## 🔬 **Herramientas OpenSources de Análisis de Imágenes en Microscopía**
 
-- Acá publico los plugins desarrollados para FIJI/ImageJ y los softwares de procesamiento, orientados a la automatización del análisis cuantitativo de imágenes de microscopía.
+- Plugins desarrollados para FIJI/ImageJ y softwares de procesamiento, orientados a la automatización del análisis cuantitativo de imágenes de microscopía.
 
 ## 💡 **Características principales**
 - **Permiten reducir significativamente el tiempo de análisis manual y minimizar la variabilidad entre operadores.**
