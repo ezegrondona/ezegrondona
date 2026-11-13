@@ -33,14 +33,14 @@
 - Aplicable a entornos de investigación e industria.
   
 ## ⚙️ **Herramientas incluidas actualmente**
- **Software: TEM Segmenter (Próximamente)**
-- *Segmentación de imágenes de Microscopía Electrónica para análisis de estructuras y organelas celulares.*
+ **TEM Segmenter (Próximamente)**
+- *Software para segmentación de imágenes de Microscopía Electrónica para análisis de estructuras y organelas celulares.*
 ---
- **[Plugin: Analizar DAB](https://github.com/ezegrondona/Analizar-DAB#analizar-dab)** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23604119.svg)](https://doi.org/10.5281/zenodo.23604119)
-- *Detección y cuantificación automatizada de tinción DAB mediante clasificación basada en color.*
+ **[Analizar DAB](https://github.com/ezegrondona/Analizar-DAB#analizar-dab)** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23604119.svg)](https://doi.org/10.5281/zenodo.23604119)
+- *Plugin de FIJI/ImageJ para detección y cuantificación automatizada de tinción DAB mediante clasificación basada en color.*
 ---
-  **[Plugin: DVR Fluo Análisis](https://github.com/ezegrondona/DVR-Fluo-Analisis#dvr-fluo-an%C3%A1lisis)** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23697402.svg)](https://doi.org/10.5281/zenodo.23697402)
-- *Cuantificación multicanal (DAPI, AF488, AF594), incluyendo conteo celular y análisis de intensidad.*
+  **[DVR Fluo Análisis](https://github.com/ezegrondona/DVR-Fluo-Analisis#dvr-fluo-an%C3%A1lisis)** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23697402.svg)](https://doi.org/10.5281/zenodo.23697402)
+- *Plugin de FIJI/ImageJ para cuantificación multicanal (DAPI, AF488, AF594), incluyendo conteo celular y análisis de intensidad.*
 
 ---
 
